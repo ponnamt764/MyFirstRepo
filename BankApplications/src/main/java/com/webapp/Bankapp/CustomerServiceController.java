@@ -36,6 +36,8 @@ public class CustomerServiceController {
 		//Optional<CustomerInformation> custDt = crud.findById(cust_id);
 	Pageable paging = PageRequest.of(page_num, 5, Sort.by("cust_type"));
 	
+	
+	
 		 Page<CustomerInformation> pagedResult = crud.findAll(paging);
 		return pagedResult.toSet();	
 	}
