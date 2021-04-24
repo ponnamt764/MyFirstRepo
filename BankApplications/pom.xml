@@ -53,7 +53,7 @@
     		<version>2.5.2</version>
 		</dependency>
 	</dependencies>
-
+	<!--adding dummy line to show merge by developer2-->
 	<build>
 		<plugins>
 			<plugin>
