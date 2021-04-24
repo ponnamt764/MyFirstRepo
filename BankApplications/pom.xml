@@ -53,7 +53,7 @@
     		<version>2.5.2</version>
 		</dependency>
 	</dependencies>
-
+	<!-- adding line to show merge conflict by developer1-->
 	<build>
 		<plugins>
 			<plugin>
