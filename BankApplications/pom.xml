@@ -53,11 +53,7 @@
     		<version>2.5.2</version>
 		</dependency>
 	</dependencies>
-<<<<<<< HEAD
 	<!--adding dummy line to show merge by developer2-->
-=======
-	<!-- adding line to show merge conflict by developer1-->
->>>>>>> 409b67e22c66d3eb6760bb2d27bfe8c6d027774d
 	<build>
 		<plugins>
 			<plugin>

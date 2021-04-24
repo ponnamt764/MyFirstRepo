@@ -11,6 +11,11 @@ public class BankApplicationsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BankApplicationsApplication.class, args);
 		System.out.println("Hello ");
+		if(1 > 2) {
+		  //abc
+		  //do add
+		  //do sub
+		}
 	}
 
 }
